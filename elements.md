@@ -1,4 +1,4 @@
-`                        Common (89%)
+```                     Common (89%)
                  /       /       |       \       \
                 Water   Fire    Earth   Wind   Metal
                  |       |       |       |       |
@@ -28,4 +28,4 @@
              |    
         Divine (0.1%)
       /    |     |      |     \
-  Dark  Light Aerialis Gaia Aetherial`
+  Dark  Light Aerialis Gaia Aetherial```

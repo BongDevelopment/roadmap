@@ -28,4 +28,4 @@
              |    
         Divine (0.1%)
       /    |     |      |     \
-  Dark  Light Aerialis Gaia Aetherial
+  ```Dark  Light Aerialis Gaia Aetherial```
